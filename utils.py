@@ -13,3 +13,8 @@ def demo(request):
     print("11111")
 
     return HttpResponse("我在dev分支上")
+
+
+class Queue(object):
+
+    pass
