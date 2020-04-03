@@ -10,8 +10,6 @@ def index(request):
 def demo(request):
 
     print("this is dev")
+    print("11111")
 
     return HttpResponse("我在dev分支上")
-
-
-sadasfdasdfasedfsdkofnsdokfnd
